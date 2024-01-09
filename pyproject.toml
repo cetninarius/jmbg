@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "jmbg"
+version = "0.0.1"
+authors = [
+  { name="Radomir Perišić", email="radomirraca2003@gmail.com" }
+]
+description = "A package for validating and processing JMBG numbers (Eng: UMCN)"
+
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/centinarius/jmbg"
+"Bug Tracker" = "https://github.com/centinarius/jmbg/issues"
