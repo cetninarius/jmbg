@@ -12,13 +12,6 @@ This function can be used to efficiently verify a JMBG number, and to simply acc
 
 Check [wiki](https://en.wikipedia.org/wiki/Unique_Master_Citizen_Number) for more information.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install JMBG.
-
-```bash
-pip install jmbg
-```
 
 ## Usage
 

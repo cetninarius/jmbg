@@ -14,14 +14,6 @@ Broj je još uviek u upotrebi u državama novonastalim od bivših republika SFRJ
 
 Pogledajte [Wikipediju](https://sh.wikipedia.org/wiki/Jedinstveni_mati%C4%8Dni_broj_gra%C4%91ana) za više informacija.
 
-## Installacija
-
-Za instalaciju paketa koristite paket-menadžer [pip](https://pip.pypa.io/en/stable/).
-
-```bash
-pip install jmbg
-```
-
 ## Upotreba
 
 ```python
